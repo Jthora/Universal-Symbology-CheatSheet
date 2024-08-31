@@ -219,6 +219,7 @@ We are deeply grateful to everyone who has contributed to the success of this pr
 The cosmos itself is the maintainer responsible for overseeing the development of the geometry across the universe, reviewing contributions, and ensuring the project’s overall quality and direction. 
 
 [![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jtqfC9kqRj)
+
 [![Join Our Discord](https://img.shields.io/discord/1279247884537171999?logo=discord)](https://discord.gg/jtqfC9kqRj)
 
 Click the badge above or follow this link to join the discussion: [Join our Discord community](https://discord.gg/jtqfC9kqRj).
