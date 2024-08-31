@@ -1,5 +1,7 @@
 # Universal-Symbology-CheatSheet
 Basic Instructions for Universal Symbology
+![Universal Symbology CheatSheet](./cheatsheet.png)
+
 # 1. Introduction
 
 ## Overview of Universal Symbology
