@@ -191,45 +191,29 @@ We welcome suggestions and input from the community to guide the future developm
 ## Contributors
 The Universal Symbology CheatSheet is the result of the collaborative efforts of many individuals who have generously contributed their time, skills, and knowledge. We would like to acknowledge the following contributors:
 
-- **[Contributor Name 1]:** 
+- **Jordan Traña [Jono Tho'ra]:** 
   - Role: Project Lead
   - Contributions: Conceptualization, initial design, and development of the Universal Symbology.
-  
-- **[Contributor Name 2]:** 
-  - Role: Symbol Designer
-  - Contributions: Creation of new symbols, visual design enhancements, and refinement of existing symbols.
-  
-- **[Contributor Name 3]:** 
-  - Role: Documentation Writer
-  - Contributions: Drafting and editing of the CheatSheet documentation, including usage examples and guidelines.
-  
-- **[Contributor Name 4]:** 
-  - Role: Community Manager
-  - Contributions: Facilitating community discussions, gathering feedback, and managing contributions from other collaborators.
 
 *Note: Add additional contributors and their roles as needed.*
 
 ## Special Thanks
 We would like to extend special thanks to the following individuals and organizations for their support and inspiration:
 
-- **[Person/Organization 1]:** For providing invaluable feedback during the early stages of development.
-- **[Person/Organization 2]:** For offering resources and tools that greatly enhanced the project’s progress.
-- **[Person/Organization 3]:** For supporting the dissemination and adoption of Universal Symbology in various communities.
+- **The Stargate TV Show (Universe - Proto Encryption)**
+- **Flash TV Show (Season 4 - Time Language)**
+- **Movie: Contact (1997 - The Primer)**
+- **exFBI Special Agent Ted Gunderson**
+- **Real Good Guys doing Good Guy Stuff**
+- **The Tho'ra Continuum**
+- **The Guardian of the Original Cosmic Cypher Scroll**
 
 *Note: Customize this section with specific acknowledgments as appropriate.*
 
 We are deeply grateful to everyone who has contributed to the success of this project. Your involvement has been instrumental in bringing the Universal Symbology CheatSheet to life, and we look forward to continuing this journey with you.
 
 # 8. Contact Information
-
-## Project Maintainer
-For any questions, feedback, or contributions related to the Universal Symbology CheatSheet, please feel free to contact the project maintainer:
-
-- **Name:** [Maintainer's Name]
-- **Email:** [Maintainer's Email Address]
-- **GitHub Profile:** [Maintainer's GitHub Profile Link]
-
-The project maintainer is responsible for overseeing the development of the CheatSheet, reviewing contributions, and ensuring the project’s overall quality and direction.
+The cosmos itself is the maintainer responsible for overseeing the development of the geometry across the universe, reviewing contributions, and ensuring the project’s overall quality and direction. 
 
 ## Bug Reports and Issues
 If you encounter any bugs, errors, or issues with the Universal Symbology CheatSheet, we encourage you to report them so that they can be addressed promptly.
@@ -239,37 +223,3 @@ If you encounter any bugs, errors, or issues with the Universal Symbology CheatS
 - **Email:** Alternatively, you can report issues via email at [Maintainer's Email Address] with the subject line "Bug Report: Universal Symbology CheatSheet."
 
 We appreciate your help in making the CheatSheet as accurate and useful as possible.
-
-## Further Inquiries
-For any additional questions, suggestions, or collaboration opportunities, please direct your inquiries to:
-
-- **Email:** [Maintainer's Email Address]
-- **GitHub Discussions:** Join the conversation and ask questions in the GitHub Discussions section of the project repository.
-- **Social Media:** Follow the project on [Social Media Platform] for updates and announcements.
-
-We are always open to feedback and eager to hear from users and collaborators. Whether you’re curious about the symbology, interested in contributing, or looking to use it in your own projects, we’re here to assist.
-
-# 9. Appendix
-
-## Supplementary Information
-This section provides additional information that complements the main content of the Universal Symbology CheatSheet. The supplementary information includes deeper insights, references, and extended explanations to enhance your understanding and application of the symbology.
-
-### Additional Information That Supports the Content of the CheatSheet
-- **Extended Examples:** In-depth examples and case studies demonstrating the application of complex symbol combinations in various contexts.
-- **Research References:** A list of academic papers, articles, and books that inspired or informed the development of the Universal Symbology system.
-- **Tools and Resources:** Links to tools, software, and other resources that can help users create, modify, and apply Universal Symbology in their own work.
-- **Frequently Asked Questions (FAQ):** Answers to common questions about the symbology, its usage, and best practices.
-
-## Glossary
-To ensure clarity and understanding, this glossary defines key terms used throughout the CheatSheet. Familiarizing yourself with these terms will help you navigate the symbology more effectively.
-
-### Definitions of Key Terms Used in the CheatSheet
-- **Universal Symbology:** A standardized set of visual symbols designed to represent fundamental concepts across various fields.
-- **Basic Symbols:** The foundational symbols in the Universal Symbology system, each representing a single, essential idea.
-- **Complex Symbols:** Combinations of basic symbols that convey more intricate concepts or relationships.
-- **Defensive Publication:** A strategy of publicly disclosing an invention or idea to prevent others from patenting it.
-- **GPL-3.0 License:** The GNU General Public License version 3.0, an open-source license that ensures the freedom to use, modify, and distribute software or documentation.
-- **Public Domain:** A status where a work is free for public use, without any restrictions or ownership claims.
-
-*Note: Add additional terms and definitions as necessary to cover all key concepts used in the CheatSheet.*
-
