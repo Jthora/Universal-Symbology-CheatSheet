@@ -218,6 +218,8 @@ We are deeply grateful to everyone who has contributed to the success of this pr
 # 8. Contact Information
 The cosmos itself is the maintainer responsible for overseeing the development of the geometry across the universe, reviewing contributions, and ensuring the project’s overall quality and direction. 
 
+[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jtqfC9kqRj)
+
 ## Bug Reports and Issues
 If you encounter any bugs, errors, or issues with the Universal Symbology CheatSheet, we encourage you to report them so that they can be addressed promptly.
 
