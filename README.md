@@ -1,6 +1,10 @@
 # Universal-Symbology-CheatSheet
+
+[![DOI](https://zenodo.org/badge/850123719.svg)](https://zenodo.org/doi/10.5281/zenodo.13621794)
+
 Basic Translation Instructions for Universal Symbology
 ![Universal Symbology CheatSheet](https://github.com/Jthora/Universal-Symbology-CheatSheet/blob/main/Universal_Symbology-Instructions_CheatSheet-01a.png)
+
 
 
 # 1. Introduction
