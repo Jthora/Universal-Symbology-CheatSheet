@@ -207,13 +207,15 @@ The Universal Symbology CheatSheet is the result of the collaborative efforts of
 ## Special Thanks
 We would like to extend special thanks to the following individuals and organizations for their support and inspiration:
 
-- **The Stargate TV Show (Universe - Proto Encryption)**
-- **Flash TV Show (Season 4 - Time Language)**
-- **Movie: Contact (1997 - The Primer)**
 - **exFBI Special Agent Ted Gunderson**
-- **Real Good Guys doing Good Guy Stuff**
-- **The Tho'ra Continuum**
 - **The Guardian of the Original Cosmic Cypher Scroll**
+
+### References from Media
+Universal Symbology Soft Disclosure
+
+- **The Stargate TV/Movie Franchise (Universe - Proto Encryption)** https://www.gateworld.net/universe/s1/human/transcript/
+- **Flash TV Show (Season 4 - Time Language)** https://arrow.fandom.com/wiki/Time_language
+- **Movie: Contact (1997 - The Primer)** https://www.youtube.com/watch?v=HgPSUer1ujM
 
 *Note: Customize this section with specific acknowledgments as appropriate.*
 
