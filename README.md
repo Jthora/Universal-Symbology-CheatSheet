@@ -1,6 +1,7 @@
 # Universal-Symbology-CheatSheet
 Basic Instructions for Universal Symbology
-![Universal Symbology CheatSheet](./cheatsheet.png)
+![Universal Symbology CheatSheet](https://github.com/Jthora/Universal-Symbology-CheatSheet/blob/main/Universal_Symbology-Instructions_CheatSheet-01a.png)
+
 
 # 1. Introduction
 
